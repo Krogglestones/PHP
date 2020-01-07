@@ -1,0 +1,9 @@
+td, tr, table {
+    border: 3px solid #00ffff;
+}
+.center_me {
+    text-align: center;
+}
+.red {
+    font-size: 20px;
+}

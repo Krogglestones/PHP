@@ -1,0 +1,18 @@
+.form_style {
+    background-color: lightskyblue;
+    width: 50%;
+    padding:20px;
+    margin:20px;
+    text-align: center;
+}
+
+.inner_style    {
+    background-color: cornsilk;
+}
+td, tr, table {
+    border: 3px solid #00ffff;
+}
+.center_me {
+    text-align: center;
+}
+

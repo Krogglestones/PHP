@@ -1,0 +1,14 @@
+a {
+    font-size: 24px;
+    font-weight: bold;
+}
+td {
+    text-align: center;
+}
+th {
+    font-weight: bold;
+    font-size: 30px;
+}
+.red    {
+    color:red;
+}
